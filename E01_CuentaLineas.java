@@ -10,6 +10,8 @@ public class E01_CuentaLineas {
 
   public static void main(String[] args) throws IOException {
 
+/* Fitxero que utilizaremos */
+
       String filename = "prueba.txt";
       FileInputStream fitxer=null;
       
