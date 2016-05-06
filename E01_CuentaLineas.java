@@ -7,6 +7,9 @@
 // linia editada por Adonis Gomez Correia 2.0
 // hola// hola// hola// hola// hola// hola// hola// hola// hola// hola// hola// hola// hola// hola// hola
 
+
+//Prueba des de el IDE
+
 import java.io.*;
 
 public class E01_CuentaLineas {
