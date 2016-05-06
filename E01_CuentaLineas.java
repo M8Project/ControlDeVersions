@@ -1,10 +1,11 @@
 /*
 
-  Programa que cuenta las líneas de un fichero de texto
+
 
 */
 
-// linia editada por Adonis Gomez Correia
+// linia editada por Adonis Gomez Correia 2.0
+// hola// hola// hola// hola// hola// hola// hola// hola// hola// hola// hola// hola// hola// hola// hola
 
 import java.io.*;
 
