@@ -8,7 +8,7 @@
 // hola// hola// hola// hola// hola// hola// hola// hola// hola// hola// hola// hola// hola// hola// hola
 
 
-//Prueba des de el IDE
+//Prueba desde el IDE
 
 import java.io.*;
 
