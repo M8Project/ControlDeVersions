@@ -5,10 +5,14 @@
 */
 
 // linia editada por Adonis Gomez Correia 2.0
-// hola// hola// hola// hola// hola// hola// hola// hola// hola// hola// hola// hola// hola// hola// hola
 
 
-//Prueba desde el IDE
+// Eliminada desde el NetBeans 
+
+// Prueba desde el IDE
+
+// Añadir desde el NetBeans
+
 
 import java.io.*;
 
