@@ -4,6 +4,8 @@
 
 */
 
+// linia editada por Adonis Gomez Correia
+
 import java.io.*;
 
 public class E01_CuentaLineas {
