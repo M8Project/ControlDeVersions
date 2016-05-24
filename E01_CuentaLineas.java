@@ -5,7 +5,7 @@
 */
 
 // linia editada por Adonis Gomez Correia 2.0
-//editado por Adonis Gomez
+//editado por Albert Ferre
 
 // Eliminada desde el NetBeans 
 
